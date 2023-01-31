@@ -21,3 +21,10 @@ Don't forget to save your work to your computer.
 To save drafts back to github,
 - we need to first download them to our machine
 - then upload (or clone/commit) to github
+
+---
+These are extra resources better kept in sight.
+
+https://the-turing-way.netlify.app/communication/binder.html
+
+https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html
